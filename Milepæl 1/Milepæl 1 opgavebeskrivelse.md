@@ -38,11 +38,11 @@ Det i skriver i journalmappen er jeres uge til uge reflektioner, så dette Milep
   - Lige nu virker roveren og dens komponenter rimelig overskueligt, det rart da jeg før har følt at det virkede som et stort og uoverskueligt projekt, med sygt mange komponenter som jeg ikke anede hvad gjorde.
 
 ### Hvad har jeg lært i fagene, og hvordan er det blevet anvendt?
-Indlejrede systemer:
+#### Indlejrede systemer:
   - 
-Programmering:
+#### Programmering:
   - 
-Projekt:
+#### Projekt:
   - 
 
 ### Hvad vil jeg undersøge til at komme videre med roveren, i fremtiden?
