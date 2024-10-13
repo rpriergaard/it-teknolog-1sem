@@ -39,11 +39,18 @@ Det i skriver i journalmappen er jeres uge til uge reflektioner, så dette Milep
 
 ### Hvad har jeg lært i fagene, og hvordan er det blevet anvendt?
 #### Indlejrede systemer:
-  - 
+  - I indlejrede systemer har jeg lært hvordan man tilslutter forskellige komponenter, fx at få en LED pære til at lyse ved at trykke på en knap og fået en motor til at køre rundt. Samtidigt har jeg lært at lodde 
+    komponenter sammen og fast, det er noget der især er brugbart til projektet, da visse komponenter er nødt til at blive loddet før de virker. Jeg synes der er meget viden i faget og føler ikke helt jeg forstår alt 
+    endnu.
+  - Dette er blevet anvendt meget til projektet, da projektet jo er at bygge en rover, så derfor har der været meget fokus på de komponenter der skal bruges.
+    
 #### Programmering:
-  - 
+  - I programmering har jeg lært at kode lidt i C++, føler jeg godt kan forstå det meste kode men kan ikke kode det helt store fra bunden selv, der skal google hjælpe må jeg indrømme.
+  - Kodningen er anvendt til projektet i form af at vi har øvet at kode til roveren, ved at få en motor til at køre hvis du trykker noget og stoppe hvis du trykker noget andet. Samtidigt har vi øvet at kode med sensoren 
+    via time of flight, hvor vi brugte en LED.
+    
 #### Projekt:
-  - 
+  - Jeg har allerede haft projekt undervisning på mit MMD studie, så har ikke lært nogle nye begreber som sådan, men det har været rart at have et specifikt modul til at sidde med projektet og kunne snakke med sin gruppe.
 
 ### Hvad vil jeg undersøge til at komme videre med roveren, i fremtiden?
   - Jeg har fået printet min egen base, og vil arbejde med min egen rover hjemme, og derved kan jeg finde frem til eventuelle problemer eller smart ideer til roveren.
